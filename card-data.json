@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "exportedAt": "2026-05-18T18:19:23.872Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Adam",
+      "lname": "Cooper",
+      "pronouns": null,
+      "name": null,
+      "title": null,
+      "biz": "Ashdon Mechanical",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "",
+      "city": "",
+      "state": "",
+      "postal": "",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/d1LTC3h0/Ashdon-Mechanical-2-pdf.png",
+      "shareImg": "https://i.postimg.cc/d1LTC3h0/Ashdon-Mechanical-2-pdf.png",
+      "bookMarkImg": "https://i.postimg.cc/d1LTC3h0/Ashdon-Mechanical-2-pdf.png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#000000",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#000000",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#FFFFFF",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#E5E7EB",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "Office",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "020 84198884",
+        "label": "Your Office Number"
+      },
+      {
+        "name": "Mobile",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "+44 7925524194",
+        "label": "Your Mobile Number"
+      },
+      {
+        "name": "whatsApp",
+        "placeholder": "https://wa.me/profileID",
+        "value": "https://wa.me/+447925524194",
+        "label": "Your WhatsApp URL"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "adam.cooper@ashdonmechanicalltd.co.uk",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://ashdonmechanicalltd.co.uk/",
+        "label": "Your Website URL"
+      }
+    ],
+    "secondaryActions": [],
+    "featured": [
+      {
+        "title": "",
+        "content": []
+      }
+    ]
+  }
+}
